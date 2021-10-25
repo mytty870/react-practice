@@ -1,11 +1,12 @@
 
 import './index.css';
+import Home from './pages/Home';
 
 function App() {
   return (
     <>
       <div>
-        <input placeholder="入力してください" />
+        <Home />
       </div>
     </>
   );
