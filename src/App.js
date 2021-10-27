@@ -1,13 +1,14 @@
 
 import './index.css';
+import { Product } from './pages/Product';
 
-import { ProductList } from './pages/ProductList';
+
 
 function App() {
   return (
     <>
       <div>
-        <ProductList />
+        <Product />
       </div>
     </>
   );
