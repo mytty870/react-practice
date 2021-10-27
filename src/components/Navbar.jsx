@@ -59,7 +59,7 @@ cursor: pointer;
 margin-left: 25px;
 `
 
-const Navbar = () => {
+export const Navbar = () => {
   return (
     <Container>
       <Wrapper>
